@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on a QRCodeScanner app development which will be ready to publish on the play store soon
 
-👀 Please see my latest [project](https://github.com/BegumYazici/PopcornApp)
+👀 Please see my personal project [project](https://github.com/BegumYazici/PopcornApp)
 
 💌 Feel free to contact me directly 
   &nbsp;&nbsp;
