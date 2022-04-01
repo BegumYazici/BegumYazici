@@ -1,11 +1,13 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-🚀 I'm keen on Android, Kotlin and new technologies so I would like to learn more! 🤓
+🚀 I have a CS degree and I'm keen on Android, Kotlin as well as new technologies so I would like to learn and share more! 🤓
 
 🔭 [QRCodeScanner](https://play.google.com/store/apps/details?id=com.gobirdie.qrcodeapp) app is on the Play Store now!
 
 👀 Please see my personal [project](https://github.com/BegumYazici/PopcornApp)
+
+🖊 Glance at my medium [page](https://yazicibegum.medium.com/)
 
 💌 Feel free to contact me directly 
   &nbsp;&nbsp;
