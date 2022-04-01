@@ -3,7 +3,7 @@
 
 🚀 I'm keen on Android, Kotlin and new technologies so I would like to learn more! 🤓
 
-🔭 [QRCodeScanner](https://play.google.com/store/apps/details?id=com.gobirdie.qrcodeapp) on the Play Store now!
+🔭 [QRCodeScanner](https://play.google.com/store/apps/details?id=com.gobirdie.qrcodeapp) app is on the Play Store now!
 
 👀 Please see my personal [project](https://github.com/BegumYazici/PopcornApp)
 
