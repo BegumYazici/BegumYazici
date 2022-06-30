@@ -3,7 +3,7 @@
 
 🚀 I have a CS degree and I'm keen on Android, Kotlin as well as new technologies so I would like to learn and share more! 🤓
 
-🔭 [QRCodeScanner](https://play.google.com/store/apps/details?id=com.gobirdie.qrcodeapp) app and [Watchphile](https://play.google.com/store/apps/details?id=com.gobirdie.watchphile)are on the Play Store now!
+🔭 [QRCodeScanner](https://play.google.com/store/apps/details?id=com.gobirdie.qrcodeapp) app and [Watchphile] (https://play.google.com/store/apps/details?id=com.gobirdie.watchphile)are on the Play Store now!
 
 👀 Please see my personal [project](https://github.com/BegumYazici/PopcornApp)
 
